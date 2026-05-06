@@ -1,0 +1,7 @@
+interface:
+  display_name: "美本选校顾问"
+  short_description: "基于官方CDS与学校官网信息为国际生家庭生成20校美本选校方案"
+  default_prompt: "Use $us-undergrad-school-selection to build a 20-school U.S. undergraduate list for an international applicant using the latest official CDS data, current school policies, and the family profile."
+
+policy:
+  allow_implicit_invocation: true
