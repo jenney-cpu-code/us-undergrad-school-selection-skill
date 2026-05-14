@@ -80,3 +80,44 @@ Use $us-undergrad-school-selection to rebalance my current college list. Keep on
 - The skill should browse the web before giving school-specific advice.
 - Official sources should be prioritized over third-party summaries.
 - International aid policies and testing policies can change, so answers should cite the specific year and source used.
+
+## Feedback
+
+If you use this skill and notice a missing decision factor or a recommendation that feels clearly wrong, structured feedback is more useful than general comments.
+
+The most helpful feedback includes:
+
+- the student profile type
+- the main strategy mode, such as ranking-first or budget-first
+- any new selection factor the skill did not handle well
+- schools that should have been removed, downgraded, upgraded, or added
+- whether the `30-school` longlist, `20-school` shortlist, or `ED/EA/RD` strategy felt inaccurate
+
+Suggested feedback format:
+
+```text
+Case type:
+- Curriculum:
+- International status:
+- Academic level:
+- Intended field:
+- Primary strategy mode:
+
+New factor:
+- Factor:
+- User wording:
+- Classification:
+- Was it handled well:
+- If not, what went wrong:
+
+Recommendation error:
+- Error type:
+- School(s) involved:
+- What should have changed:
+
+Outcome:
+- 30-school list useful:
+- 20-school list useful:
+- Early-round strategy useful:
+- Main inaccuracy:
+```
